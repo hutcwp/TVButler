@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="bt_h40_w20_m2_transfer">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">#8e8e8e</item>
+    </style>
+
+
+    <style name="bt_h40_w40_transfer">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:background">#8e8e8e</item>
+    </style>
+
+
+    <style name="bt_h20_w20_transfer">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">#8e8e8e</item>
+    </style>
+
+</resources>
